@@ -5,4 +5,4 @@ POST
 PUT 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/686779e1-077c-4311-86de-b149c1080d1f" />
 DELETE
-![Uploading image.png…]()
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d0d541db-d626-4871-868a-2e3c6f7a4f92" />
