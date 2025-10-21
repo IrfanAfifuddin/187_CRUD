@@ -3,4 +3,6 @@ GET
 POST
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5a39823d-448a-498c-87a6-250dddf58dff" />
 PUT 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/686779e1-077c-4311-86de-b149c1080d1f" />
+DELETE
 ![Uploading image.png…]()
